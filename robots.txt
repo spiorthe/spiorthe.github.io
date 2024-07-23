@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spiorthe.github.io/sitemap
+Sitemap: https://spiorthe.github.io/app/sitemap
+Sitemap: https://spiorthe.github.io/assets/sitemap
+Sitemap: https://spiorthe.github.io/css/sitemap
+Sitemap: https://spiorthe.github.io/includes/sitemap
+Sitemap: https://spiorthe.github.io/item/sitemap
+Sitemap: https://spiorthe.github.io/src/sitemap
